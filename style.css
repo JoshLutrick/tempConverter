@@ -68,3 +68,7 @@ label {
     margin-top: 3rem;
 
 }
+.highlightResult {
+    background-color: rgba(22, 204, 137, 0.634);
+    color: rgb(255, 255, 255);
+}
